@@ -1,0 +1,4 @@
+.inputForm::-webkit-input-placeholder {
+  font-family: 'Product Sans';
+  color: red;
+}
